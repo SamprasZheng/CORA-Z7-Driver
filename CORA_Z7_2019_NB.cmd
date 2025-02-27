@@ -1,0 +1,1 @@
+D:\Xilinx\Vivado_Lab\2019.2\bin\vivado_lab -mode batch -source .\vivado_server_Win.tcl -nojournal -nolog
